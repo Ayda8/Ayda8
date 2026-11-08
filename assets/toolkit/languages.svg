@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="196" viewBox="0 0 410 196" role="img" aria-label="Languages: Java, SQL, JavaScript, Python, HTML / CSS, Bash">
+<defs><clipPath id="c"><rect x="1" y="1" width="408" height="194" rx="14"/></clipPath></defs>
+<g clip-path="url(#c)"><rect width="410" height="196" fill="#FFFFFF"/><rect width="410" height="5" fill="#4F46E5"/></g>
+<rect x="1" y="1" width="408" height="194" rx="14" fill="none" stroke="#E2E8F0" stroke-width="1.5"/>
+<circle cx="32" cy="38" r="6" fill="#4F46E5"/>
+<text x="46" y="44" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="700" fill="#1E1B4B">Languages</text>
+<rect x="24" y="70" width="46" height="28" rx="14" fill="#EEF2FF"/>
+<text x="47" y="89" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#3730A3">Java</text>
+<rect x="77" y="70" width="39" height="28" rx="14" fill="#EEF2FF"/>
+<text x="97" y="89" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#3730A3">SQL</text>
+<rect x="124" y="70" width="89" height="28" rx="14" fill="#EEF2FF"/>
+<text x="168" y="89" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#3730A3">JavaScript</text>
+<rect x="220" y="70" width="61" height="28" rx="14" fill="#EEF2FF"/>
+<text x="250" y="89" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#3730A3">Python</text>
+<rect x="287" y="70" width="89" height="28" rx="14" fill="#EEF2FF"/>
+<text x="332" y="89" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#3730A3">HTML / CSS</text>
+<rect x="24" y="108" width="46" height="28" rx="14" fill="#EEF2FF"/>
+<text x="47" y="127" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#3730A3">Bash</text>
+</svg>

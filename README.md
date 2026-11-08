@@ -74,36 +74,20 @@ to the agent is measured with evals before it ships.
 ## 🧰 Tech stack
 
 <div align="center">
-
-**Backend**<br>
-<img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security">
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
-
-**AI engineering**<br>
-<img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI">
-<img src="https://img.shields.io/badge/Ollama-1F2937?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
-<img src="https://img.shields.io/badge/Tool%20calling-0EA5E9?style=for-the-badge&logoColor=white" alt="Tool calling">
-<img src="https://img.shields.io/badge/Evals-4F46E5?style=for-the-badge&logoColor=white" alt="Evals">
-
-**Data**<br>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-
-**Frontend · Build · Ops**<br>
-<img src="https://img.shields.io/badge/React-0EA5E9?style=for-the-badge&logo=react&logoColor=white" alt="React">
-<img src="https://img.shields.io/badge/PrimeFaces-F59E0B?style=for-the-badge&logoColor=white" alt="PrimeFaces">
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-<img src="https://img.shields.io/badge/Linux-1F2937?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-
+  <img src="assets/toolkit/languages.svg" width="410" alt="Languages: Java, SQL, JavaScript, Python, HTML / CSS, Bash">
+  <img src="assets/toolkit/frameworks.svg" width="410" alt="Frameworks: Spring Boot, Spring AI, Spring Security, Spring Data JPA, Hibernate, JSF / PrimeFaces, React / Vite, FastAPI">
+  <br>
+  <img src="assets/toolkit/data-ai.svg" width="410" alt="Data and AI: Oracle, PostgreSQL, Flyway, Redis, JasperReports, Ollama, LLM tool calling, Evals">
+  <img src="assets/toolkit/workflow.svg" width="410" alt="Build and workflow: Maven, Docker, GitHub Actions, GitLab CI, Kubernetes, Linux, Git, IntelliJ IDEA">
 </div>
+
+<details>
+  <summary><b>View the stack as text</b></summary>
+  <p><b>Languages:</b> Java · SQL · JavaScript · Python · HTML / CSS · Bash</p>
+  <p><b>Frameworks:</b> Spring Boot · Spring AI · Spring Security · Spring Data JPA · Hibernate · JSF / PrimeFaces · React / Vite · FastAPI</p>
+  <p><b>Data &amp; AI:</b> Oracle · PostgreSQL · Flyway · Redis · JasperReports · Ollama · LLM tool calling · Evals</p>
+  <p><b>Build &amp; workflow:</b> Maven · Docker · GitHub Actions · GitLab CI · Kubernetes · Linux · Git · IntelliJ IDEA</p>
+</details>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -121,6 +105,42 @@ to the agent is measured with evals before it ships.
 <div align="center">
   <img width="600" src="https://streak-stats.demolab.com/?user=Ayda8&amp;hide_border=false&amp;border=E2E8F0&amp;background=FFFFFF&amp;ring=4F46E5&amp;fire=EC4899&amp;currStreakLabel=4F46E5&amp;sideLabels=334155&amp;dates=64748B&amp;sideNums=1E1B4B&amp;currStreakNum=1E1B4B&amp;stroke=E2E8F0&amp;card_width=600&amp;date_format=M%20j&amp;disable_animations=true" alt="Contribution streak">
 </div>
+
+### 🏆 Trophies
+
+<div align="center">
+  <img width="760" src="https://github-trophies.vercel.app/?username=Ayda8&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;column=4&amp;margin-w=12&amp;margin-h=12" alt="GitHub trophies">
+</div>
+
+### 📈 Activity
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayda8&amp;bg_color=ffffff&amp;color=334155&amp;line=4F46E5&amp;point=EC4899&amp;area=true&amp;area_color=C7D2FE&amp;hide_border=false&amp;radius=12&amp;custom_title=Contributions%20over%20time" alt="Contribution activity graph">
+</div>
+
+### 🐍 Contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayda8/Ayda8/output/github-snake-dark.svg">
+    <img width="95%" src="https://raw.githubusercontent.com/Ayda8/Ayda8/output/github-snake.svg" alt="Animated snake eating my contribution graph">
+  </picture>
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 🏅 Competitions
+
+<div align="center">
+
+| Competition | Track | Result |
+|:---|:---|:---:|
+| **National Technology Olympiad 2026** · Islamic Azad University, Sari | DevOps / Linux | Final round |
+
+</div>
+
+> Docker, CI pipelines, Kubernetes and Prometheus / Grafana, under a clock.<br>
+> It taught me that code isn't done until it runs somewhere other than my laptop.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -140,6 +160,15 @@ to the agent is measured with evals before it ships.
 </div>
 
 <br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>☕ Let's talk</b><br>Java, Spring AI, evals,<br>or tech that helps people live independently.</td>
+      <td align="center"><b>📄 Read the code</b><br>Start with the Caregiver Agent<br>and its decision records.</td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <sub><code>System.out.println("Thanks for stopping by ☕");</code></sub>
