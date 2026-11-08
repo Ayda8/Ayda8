@@ -19,7 +19,7 @@
 ```java
 var aida = new Developer(
     "Aida Kabiri",                                   // name
-    "Software Engineer · AI Engineering",            // role
+    "Software Engineer · Full-Stack Java · AI",      // role
     List.of("Java", "Spring Boot", "Spring AI"),     // daily drivers
     List.of("Oracle", "PostgreSQL"),                 // where the data lives
     "B.Sc. Computer Science, 2023 – present",        // education
