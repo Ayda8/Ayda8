@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="t d">
+<title id="t">Aida Kabiri — Java Backend Developer and AI Engineering</title>
+<desc id="d">Name banner with a small diagram: a user talks to an AI agent, safety rules decide, and the family is notified.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#EEF2FF"/></linearGradient>
+  <linearGradient id="bar" x1="0" x2="1"><stop stop-color="#4F46E5"/><stop offset=".5" stop-color="#0EA5E9"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+  <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#94A3B8"/></marker>
+  <clipPath id="frame"><rect width="1200" height="380" rx="22"/></clipPath>
+</defs>
+<style>
+  @keyframes travel { from { offset-distance: 0% } to { offset-distance: 100% } }
+  @keyframes breathe { 0%,100% { opacity: .55 } 50% { opacity: 1 } }
+  .b1 { animation: breathe 3s ease-in-out infinite }
+  .b2 { animation: breathe 3s ease-in-out 1s infinite }
+  .b3 { animation: breathe 3s ease-in-out 2s infinite }
+</style>
+<g clip-path="url(#frame)">
+  <rect width="1200" height="380" fill="url(#bg)"/>
+  <circle cx="1130" cy="40" r="150" fill="#E0F2FE" opacity=".8"/>
+  <circle cx="1010" cy="380" r="120" fill="#FCE7F3" opacity=".8"/>
+  <circle cx="720" cy="-30" r="90" fill="#E0E7FF" opacity=".9"/>
+  <rect x="0" y="372" width="1200" height="8" fill="url(#bar)"/>
+
+  <g font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <text x="60" y="160" font-size="76" font-weight="800" letter-spacing="-2" fill="#1E1B4B">Aida Kabiri</text>
+    <rect x="64" y="182" width="120" height="6" rx="3" fill="url(#bar)"/>
+    <text x="64" y="232" font-size="24" font-weight="700" fill="#4F46E5">Java Backend Developer · AI Engineering</text>
+    <text x="64" y="274" font-size="18" fill="#475569">Building AI agents that help people live more independently.</text>
+  </g>
+
+  <g font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600">
+    <path d="M808 130 H886" stroke="#94A3B8" stroke-width="2" marker-end="url(#arr)"/>
+    <path d="M950 156 V214" stroke="#94A3B8" stroke-width="2" marker-end="url(#arr)"/>
+    <path d="M1014 242 H1068" stroke="#94A3B8" stroke-width="2" marker-end="url(#arr)"/>
+
+    <rect x="700" y="106" width="108" height="48" rx="24" fill="#E0E7FF" stroke="#6366F1" stroke-width="1.5"/>
+    <text x="754" y="135" text-anchor="middle" fill="#3730A3">User</text>
+
+    <rect x="890" y="106" width="120" height="48" rx="24" fill="#E0F2FE" stroke="#0EA5E9" stroke-width="1.5" class="b2"/>
+    <text x="950" y="135" text-anchor="middle" fill="#075985">AI agent</text>
+
+    <rect x="880" y="218" width="134" height="48" rx="12" fill="#FEF3C7" stroke="#F59E0B" stroke-width="1.5"/>
+    <text x="947" y="247" text-anchor="middle" fill="#92400E">Safety rules</text>
+
+    <rect x="1072" y="218" width="100" height="48" rx="24" fill="#FCE7F3" stroke="#EC4899" stroke-width="1.5" class="b3"/>
+    <text x="1122" y="247" text-anchor="middle" fill="#9D174D">Family</text>
+
+    <text x="755" y="180" text-anchor="middle" font-size="12.5" font-weight="500" fill="#64748B">"I missed my pill"</text>
+    <text x="947" y="292" text-anchor="middle" font-size="12.5" font-weight="500" fill="#64748B">decided in code, not by the model</text>
+  </g>
+</g>
+</svg>

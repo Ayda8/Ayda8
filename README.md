@@ -1,24 +1,20 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-    <img src="assets/header-light.svg" width="1200" alt="Aida Kabiri — Java backends, AI agents that care. A user talks to an AI agent, safety rules decide, and the family is notified.">
-  </picture>
+  <img src="assets/header.svg" width="1200" alt="Aida Kabiri, Java Backend Developer and AI Engineering. Building AI agents that help people live more independently.">
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=760&lines=Hi%2C+I%27m+Aida+%E2%80%94+Java+backend+developer.;Building+AI+agents+with+Spring+AI.;Safety+rules+stay+outside+the+model.;Evals+first.+Then+prompts.;Coffee+in.+Clean+architecture+out." alt="Hi, I'm Aida, Java backend developer. Building AI agents with Spring AI. Safety rules stay outside the model." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=4F46E5&center=true&vCenter=true&width=760&lines=Hi%2C+I%27m+Aida+%E2%80%94+Java+backend+developer.;Building+AI+agents+with+Spring+AI.;Safety+rules+stay+outside+the+model.;Evals+first.+Then+prompts.;Coffee+in.+Clean+architecture+out." alt="Hi, I'm Aida, Java backend developer. Building AI agents with Spring AI. Safety rules stay outside the model." />
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ayda8.Ayda8&amp;left_color=%23141A3A&amp;right_color=%237C8CFF&amp;left_text=PROFILE%20VIEWS" alt="Profile views" />
-  <a href="https://github.com/Ayda8?tab=followers"><img src="https://img.shields.io/github/followers/Ayda8?label=FOLLOWERS&style=flat-square&color=2DD4BF&labelColor=141A3A" alt="Followers" /></a>
-  <img src="https://img.shields.io/badge/JAVA-21-141A3A?style=flat-square&logo=openjdk&logoColor=FBBF24&labelColor=141A3A&color=7C8CFF" alt="Java 21" />
-  <img src="https://img.shields.io/badge/OPEN%20TO-WORK%20IN%20GERMANY-141A3A?style=flat-square&labelColor=141A3A&color=0F9488" alt="Open to work in Germany" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ayda8.Ayda8&amp;left_color=%234F46E5&amp;right_color=%230EA5E9&amp;left_text=Profile%20views" alt="Profile views" />
+  <a href="https://github.com/Ayda8?tab=followers"><img src="https://img.shields.io/github/followers/Ayda8?label=Followers&style=flat-square&color=EC4899&labelColor=4F46E5" alt="Followers" /></a>
+  <img src="https://img.shields.io/badge/Java-21-0EA5E9?style=flat-square&logo=openjdk&logoColor=white&labelColor=4F46E5" alt="Java 21" />
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## `$ whoami`
+## 👩‍💻 About me
 
 ```java
 var aida = new Developer(
@@ -42,7 +38,7 @@ to the agent is measured with evals before it ships.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## `$ ls ~/projects`
+## 🚀 Projects
 
 <table>
   <tr>
@@ -50,7 +46,7 @@ to the agent is measured with evals before it ships.
       <h3>🩺 Caregiver Agent</h3>
       <p>An LLM agent that manages medication schedules and alerts caregivers. Runs fully local with Ollama and keeps working without internet. Safety rules in a deterministic rule engine, guarded by ArchUnit; evals before prompts.</p>
       <p><code>Java 21</code> <code>Spring Boot 3.5</code> <code>Spring AI</code> <code>Ollama</code> <code>Flyway</code></p>
-      <img src="https://img.shields.io/badge/status-in%20progress%20%C2%B7%20private-141A3A?style=flat-square&labelColor=141A3A&color=FBBF24" alt="In progress, private repository">
+      <img src="https://img.shields.io/badge/status-in%20progress%20%C2%B7%20private-F59E0B?style=flat-square&labelColor=64748B&color=F59E0B" alt="In progress, private repository">
     </td>
     <td width="50%" valign="top">
       <h3>🪙 <a href="https://github.com/stupidprogrammer4/amu-pulse">Amu Pulse</a></h3>
@@ -74,60 +70,60 @@ to the agent is measured with evals before it ships.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## `$ mvn dependency:tree`
+## 🧰 Tech stack
 
 <div align="center">
 
 **Backend**<br>
-<img src="https://img.shields.io/badge/Java-141A3A?style=for-the-badge&logo=openjdk&logoColor=FBBF24" alt="Java">
-<img src="https://img.shields.io/badge/Spring%20Boot-141A3A?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot">
-<img src="https://img.shields.io/badge/Spring%20Security-141A3A?style=for-the-badge&logo=springsecurity&logoColor=6DB33F" alt="Spring Security">
-<img src="https://img.shields.io/badge/Hibernate-141A3A?style=for-the-badge&logo=hibernate&logoColor=BCAE79" alt="Hibernate">
-<img src="https://img.shields.io/badge/JWT-141A3A?style=for-the-badge&logo=jsonwebtokens&logoColor=7C8CFF" alt="JWT">
+<img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security">
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
 
 **AI engineering**<br>
-<img src="https://img.shields.io/badge/Spring%20AI-141A3A?style=for-the-badge&logo=spring&logoColor=2DD4BF" alt="Spring AI">
-<img src="https://img.shields.io/badge/Ollama-141A3A?style=for-the-badge&logo=ollama&logoColor=FFFFFF" alt="Ollama">
-<img src="https://img.shields.io/badge/Tool%20calling-141A3A?style=for-the-badge&logoColor=2DD4BF" alt="Tool calling">
-<img src="https://img.shields.io/badge/Evals-141A3A?style=for-the-badge&logoColor=2DD4BF" alt="Evals">
+<img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI">
+<img src="https://img.shields.io/badge/Ollama-1F2937?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
+<img src="https://img.shields.io/badge/Tool%20calling-0EA5E9?style=for-the-badge&logoColor=white" alt="Tool calling">
+<img src="https://img.shields.io/badge/Evals-4F46E5?style=for-the-badge&logoColor=white" alt="Evals">
 
 **Data**<br>
-<img src="https://img.shields.io/badge/Oracle-141A3A?style=for-the-badge&logo=oracle&logoColor=F80000" alt="Oracle">
-<img src="https://img.shields.io/badge/PostgreSQL-141A3A?style=for-the-badge&logo=postgresql&logoColor=7C8CFF" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Flyway-141A3A?style=for-the-badge&logo=flyway&logoColor=E0303A" alt="Flyway">
-<img src="https://img.shields.io/badge/Redis-141A3A?style=for-the-badge&logo=redis&logoColor=FF4438" alt="Redis">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
 
 **Frontend · Build · Ops**<br>
-<img src="https://img.shields.io/badge/React-141A3A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/PrimeFaces-141A3A?style=for-the-badge&logoColor=FBBF24" alt="PrimeFaces">
-<img src="https://img.shields.io/badge/Maven-141A3A?style=for-the-badge&logo=apachemaven&logoColor=E05A3A" alt="Maven">
-<img src="https://img.shields.io/badge/Docker-141A3A?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
-<img src="https://img.shields.io/badge/GitHub%20Actions-141A3A?style=for-the-badge&logo=githubactions&logoColor=7C8CFF" alt="GitHub Actions">
-<img src="https://img.shields.io/badge/Linux-141A3A?style=for-the-badge&logo=linux&logoColor=FBBF24" alt="Linux">
-<img src="https://img.shields.io/badge/Python-141A3A?style=for-the-badge&logo=python&logoColor=FBBF24" alt="Python">
+<img src="https://img.shields.io/badge/React-0EA5E9?style=for-the-badge&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/PrimeFaces-F59E0B?style=for-the-badge&logoColor=white" alt="PrimeFaces">
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+<img src="https://img.shields.io/badge/Linux-1F2937?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## `$ ./stats --live`
+## 📊 GitHub stats
 
 <div align="center">
   <a href="https://github.com/Ayda8">
-    <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=Ayda8&amp;show_icons=true&amp;hide_border=true&amp;bg_color=141A3A&amp;title_color=7C8CFF&amp;text_color=CBD5E1&amp;icon_color=2DD4BF&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github&amp;disable_animations=true&amp;custom_title=Aida%27s%20GitHub%20stats" alt="GitHub stats">
+    <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=Ayda8&amp;show_icons=true&amp;hide_border=false&amp;bg_color=FFFFFF&amp;title_color=4F46E5&amp;text_color=334155&amp;icon_color=0EA5E9&amp;border_color=E2E8F0&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github&amp;disable_animations=true&amp;custom_title=Aida%27s%20GitHub%20stats" alt="GitHub stats">
   </a>
   <a href="https://github.com/Ayda8?tab=repositories">
-    <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ayda8&amp;layout=compact&amp;hide_border=true&amp;bg_color=141A3A&amp;title_color=7C8CFF&amp;text_color=CBD5E1&amp;langs_count=6&amp;card_width=390&amp;disable_animations=true&amp;custom_title=Languages" alt="Languages across my public repositories">
+    <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ayda8&amp;layout=compact&amp;hide_border=false&amp;bg_color=FFFFFF&amp;title_color=4F46E5&amp;text_color=334155&amp;border_color=E2E8F0&amp;langs_count=6&amp;card_width=390&amp;disable_animations=true&amp;custom_title=Languages" alt="Languages across my public repositories">
   </a>
 </div>
 
 <div align="center">
-  <img width="600" src="https://streak-stats.demolab.com/?user=Ayda8&amp;hide_border=true&amp;background=141A3A&amp;ring=7C8CFF&amp;fire=FBBF24&amp;currStreakLabel=2DD4BF&amp;sideLabels=CBD5E1&amp;dates=AEB6DA&amp;sideNums=F4F5FF&amp;currStreakNum=F4F5FF&amp;stroke=2C3566&amp;card_width=600&amp;date_format=M%20j&amp;disable_animations=true" alt="Contribution streak">
+  <img width="600" src="https://streak-stats.demolab.com/?user=Ayda8&amp;hide_border=false&amp;border=E2E8F0&amp;background=FFFFFF&amp;ring=4F46E5&amp;fire=EC4899&amp;currStreakLabel=4F46E5&amp;sideLabels=334155&amp;dates=64748B&amp;sideNums=1E1B4B&amp;currStreakNum=1E1B4B&amp;stroke=E2E8F0&amp;card_width=600&amp;date_format=M%20j&amp;disable_animations=true" alt="Contribution streak">
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## `$ cat principles.md`
+## 🧭 How I work
 
 > **Safety lives in code, not in prompts.** If a mistake can hurt someone, a tested rule decides, not a model.<br>
 > **Measure before you tune.** Evals first, then prompts, then models.<br>
@@ -135,11 +131,11 @@ to the agent is measured with evals before it ships.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## `$ curl aida.contact`
+## 📫 Get in touch
 
 <div align="center">
-  <a href="mailto:aydakabiri71@gmail.com"><img src="https://img.shields.io/badge/Email-141A3A?style=for-the-badge&logo=gmail&logoColor=FBBF24" alt="Email" /></a>
-  <a href="https://github.com/Ayda8"><img src="https://img.shields.io/badge/GitHub-141A3A?style=for-the-badge&logo=github&logoColor=F4F5FF" alt="GitHub" /></a>
+  <a href="mailto:aydakabiri71@gmail.com"><img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Ayda8"><img src="https://img.shields.io/badge/GitHub-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 <br>
