@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="assets/header.svg" width="1200" alt="Aida Kabiri, Java Backend Developer and AI Engineering. Building AI agents that help people live more independently.">
+  <img src="assets/header.svg" width="1200" alt="Aida Kabiri, Software Engineer and AI Engineering. Building AI agents that help people live more independently.">
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=4F46E5&center=true&vCenter=true&width=760&lines=Hi%2C+I%27m+Aida+%E2%80%94+Java+backend+developer.;Building+AI+agents+with+Spring+AI.;Safety+rules+stay+outside+the+model.;Evals+first.+Then+prompts.;Coffee+in.+Clean+architecture+out." alt="Hi, I'm Aida, Java backend developer. Building AI agents with Spring AI. Safety rules stay outside the model." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=4F46E5&center=true&vCenter=true&width=760&lines=Hi%2C+I%27m+Aida+%E2%80%94+software+engineer.;Building+AI+agents+with+Spring+AI.;Safety+rules+stay+outside+the+model.;Evals+first.+Then+prompts.;Coffee+in.+Clean+architecture+out." alt="Hi, I'm Aida, software engineer. Building AI agents with Spring AI. Safety rules stay outside the model." />
 </div>
 
 <div align="center">
@@ -19,8 +19,8 @@
 ```java
 var aida = new Developer(
     "Aida Kabiri",                                   // name
-    "Java Backend Developer · AI Engineering",       // role
-    List.of("Spring Boot", "Spring AI", "JPA"),      // daily drivers
+    "Software Engineer · AI Engineering",            // role
+    List.of("Java", "Spring Boot", "Spring AI"),     // daily drivers
     List.of("Oracle", "PostgreSQL"),                 // where the data lives
     "B.Sc. Computer Science, 2023 – present",        // education
     "AI agents for assistive technology",            // what I'm building
@@ -28,8 +28,9 @@ var aida = new Developer(
 );
 ```
 
-I build backend systems in Java: enterprise information systems, and before that digital wallet,
-payment and transaction products. Now I'm taking that engineering discipline into LLM applications.
+I'm a software engineer who builds products end to end: Java and Spring backends, database design and
+queries, and web frontends. I've worked on enterprise information systems, and before that on digital
+wallet, payment and transaction products. Now I'm taking that engineering discipline into LLM applications.
 
 My current project is an AI agent that helps people with disabilities and older adults manage their
 medication, and keeps their family in the loop. The rule I build by: **an LLM may talk, but it never
