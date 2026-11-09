@@ -37,6 +37,16 @@ medication, and keeps their family in the loop. The rule I build by: **an LLM ma
 decides anything safety-critical.** Those decisions live in plain, tested Java code, and every change
 to the agent is measured with evals before it ships.
 
+<details>
+  <summary><b>☕ Open my ASCII identity terminal</b></summary>
+  <br>
+  <div align="center">
+    <img src="assets/identity-terminal.svg" width="100%" alt="A terminal: ASCII art of a coffee cup with a heart made of steam, written in the words java, spring, ai, care, code and caffeine, followed by neofetch-style facts: Software Engineer, full-stack Java, AI agents for assistive tech.">
+  </div>
+</details>
+
+> `An LLM may talk. Only tested code decides.`
+
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🚀 Projects
