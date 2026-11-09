@@ -41,7 +41,7 @@ to the agent is measured with evals before it ships.
   <summary><b>🎀 Open my ASCII identity terminal</b></summary>
   <br>
   <div align="center">
-    <img src="assets/identity-terminal.svg" width="100%" alt="A terminal: ASCII art of a ribbon bow, written in the words java, spring, ai, care, code and caffeine, followed by neofetch-style facts: Software Engineer, full-stack Java, AI agents for assistive tech.">
+    <img src="assets/identity-terminal.svg" width="100%" alt="A terminal: ASCII art of a coffee cup tied with a ribbon bow under a heart of steam, written in the words java, spring, ai, care, code and caffeine, followed by neofetch-style facts: Software Engineer, full-stack Java, AI agents for assistive tech.">
   </div>
 </details>
 
@@ -105,15 +105,15 @@ to the agent is measured with evals before it ships.
 
 <div align="center">
   <a href="https://github.com/Ayda8">
-    <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=Ayda8&amp;show_icons=true&amp;hide_border=false&amp;bg_color=FFFFFF&amp;title_color=4F46E5&amp;text_color=334155&amp;icon_color=0EA5E9&amp;border_color=E2E8F0&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github&amp;disable_animations=true&amp;custom_title=Aida%27s%20GitHub%20stats" alt="GitHub stats">
+    <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=Ayda8&amp;show_icons=true&amp;hide_border=false&amp;bg_color=F3EEFF&amp;title_color=4F46E5&amp;text_color=334155&amp;icon_color=0EA5E9&amp;border_color=DCCFFF&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github&amp;disable_animations=true&amp;custom_title=Aida%27s%20GitHub%20stats" alt="GitHub stats">
   </a>
   <a href="https://github.com/Ayda8?tab=repositories">
-    <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ayda8&amp;layout=compact&amp;hide_border=false&amp;bg_color=FFFFFF&amp;title_color=4F46E5&amp;text_color=334155&amp;border_color=E2E8F0&amp;langs_count=6&amp;card_width=390&amp;disable_animations=true&amp;custom_title=Languages" alt="Languages across my public repositories">
+    <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ayda8&amp;layout=compact&amp;hide_border=false&amp;bg_color=F3EEFF&amp;title_color=4F46E5&amp;text_color=334155&amp;border_color=DCCFFF&amp;langs_count=6&amp;card_width=390&amp;disable_animations=true&amp;custom_title=Languages" alt="Languages across my public repositories">
   </a>
 </div>
 
 <div align="center">
-  <img width="600" src="https://streak-stats.demolab.com/?user=Ayda8&amp;hide_border=false&amp;border=E2E8F0&amp;background=FFFFFF&amp;ring=4F46E5&amp;fire=EC4899&amp;currStreakLabel=4F46E5&amp;sideLabels=334155&amp;dates=64748B&amp;sideNums=1E1B4B&amp;currStreakNum=1E1B4B&amp;stroke=E2E8F0&amp;card_width=600&amp;date_format=M%20j&amp;disable_animations=true" alt="Contribution streak">
+  <img width="600" src="https://streak-stats.demolab.com/?user=Ayda8&amp;hide_border=false&amp;border=DCCFFF&amp;background=F3EEFF&amp;ring=4F46E5&amp;fire=EC4899&amp;currStreakLabel=4F46E5&amp;sideLabels=334155&amp;dates=64748B&amp;sideNums=1E1B4B&amp;currStreakNum=1E1B4B&amp;stroke=DCCFFF&amp;card_width=600&amp;date_format=M%20j&amp;disable_animations=true" alt="Contribution streak">
 </div>
 
 ### 🏆 Trophies
@@ -125,7 +125,7 @@ to the agent is measured with evals before it ships.
 ### 📈 Activity
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayda8&amp;bg_color=ffffff&amp;color=334155&amp;line=4F46E5&amp;point=EC4899&amp;area=true&amp;area_color=C7D2FE&amp;hide_border=false&amp;radius=12&amp;custom_title=Contributions%20over%20time" alt="Contribution activity graph">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayda8&amp;bg_color=F3EEFF&amp;color=334155&amp;line=4F46E5&amp;point=EC4899&amp;area=true&amp;area_color=C7D2FE&amp;hide_border=false&amp;radius=12&amp;custom_title=Contributions%20over%20time" alt="Contribution activity graph">
 </div>
 
 ### 🐍 Contribution snake
@@ -165,6 +165,7 @@ to the agent is measured with evals before it ships.
 ## 📫 Get in touch
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/aida-kabiri-25367536a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:aydakabiri71@gmail.com"><img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Ayda8"><img src="https://img.shields.io/badge/GitHub-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
