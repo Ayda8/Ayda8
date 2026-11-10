@@ -38,7 +38,7 @@ decides anything safety-critical.** Those decisions live in plain, tested Java c
 to the agent is measured with evals before it ships.
 
 <div align="center">
-  <img src="assets/identity-terminal.png" width="100%" alt="A pastel terminal running neofetch: ASCII art of a coffee cup tied with a ribbon bow under a heart of steam, next to facts: Software Engineer, full-stack Java, AI agents for assistive technology, Spring Boot, Spring AI, Oracle, PostgreSQL, React. Status: open to freelance projects, collaborations and remote roles.">
+  <img src="assets/identity-terminal.png" width="100%" alt="A pastel terminal running neofetch: ASCII art of a coffee cup tied with a ribbon bow under a heart of steam, next to domain tags Java, AI, Security, Network, DevOps and facts: Software Engineer, full-stack Java, Spring Boot, Spring AI, Spring Security, Linux networking, Docker, Kubernetes, Oracle, PostgreSQL, React. Status: open to freelance projects, collaborations and remote roles.">
 </div>
 
 > `An LLM may talk. Only tested code decides.`
