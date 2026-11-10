@@ -37,13 +37,9 @@ medication, and keeps their family in the loop. The rule I build by: **an LLM ma
 decides anything safety-critical.** Those decisions live in plain, tested Java code, and every change
 to the agent is measured with evals before it ships.
 
-<details>
-  <summary><b>🎀 Open my ASCII identity terminal</b></summary>
-  <br>
-  <div align="center">
-    <img src="assets/identity-terminal.svg" width="100%" alt="A terminal: ASCII art of a coffee cup tied with a ribbon bow under a heart of steam, written in the words java, spring, ai, care, code and caffeine, followed by neofetch-style facts: Software Engineer, full-stack Java, AI agents for assistive tech.">
-  </div>
-</details>
+<div align="center">
+  <img src="assets/identity-terminal.png" width="100%" alt="A pastel terminal running neofetch: ASCII art of a coffee cup tied with a ribbon bow under a heart of steam, next to facts: Software Engineer, full-stack Java, AI agents for assistive technology, Spring Boot, Spring AI, Oracle, PostgreSQL, React. Status: open to freelance projects, collaborations and remote roles.">
+</div>
 
 > `An LLM may talk. Only tested code decides.`
 
@@ -54,13 +50,13 @@ to the agent is measured with evals before it ships.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🩺 Caregiver Agent</h3>
+      <h3>💊 Caregiver Agent</h3>
       <p>An LLM agent that manages medication schedules and alerts caregivers. Runs fully local with Ollama and keeps working without internet. Safety rules in a deterministic rule engine, guarded by ArchUnit; evals before prompts.</p>
       <p><code>Java 21</code> <code>Spring Boot 3.5</code> <code>Spring AI</code> <code>Ollama</code> <code>Flyway</code></p>
       <img src="https://img.shields.io/badge/status-in%20progress%20%C2%B7%20private-F59E0B?style=flat-square&labelColor=64748B&color=F59E0B" alt="In progress, private repository">
     </td>
     <td width="50%" valign="top">
-      <h3>🪙 <a href="https://github.com/stupidprogrammer4/amu-pulse">Amu Pulse</a></h3>
+      <h3>📈 <a href="https://github.com/stupidprogrammer4/amu-pulse">Amu Pulse</a></h3>
       <p>Precious-metals price tracking with AI-scored market signals, built as a team. I built the identity module (JWT refresh tokens stored as SHA-256 hashes, login audit log) and the news crawler.</p>
       <p><code>Python</code> <code>FastAPI</code> <code>Dishka</code> <code>PostgreSQL</code></p>
     </td>
@@ -159,6 +155,35 @@ to the agent is measured with evals before it ships.
 > **Safety lives in code, not in prompts.** If a mistake can hurt someone, a tested rule decides, not a model.<br>
 > **Measure before you tune.** Evals first, then prompts, then models.<br>
 > **Write the decision down.** Every important choice gets an ADR, so future me knows *why*.
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 🤝 Work with me
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>⚙️ Backends &amp; APIs</b><br>
+      <sub>Spring Boot services, REST APIs, auth with Spring Security, clean database design and migrations, tested and CI-ready.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>🤖 AI features you can trust</b><br>
+      <sub>LLM agents with Spring AI tool calling, local models with Ollama, and evals that prove a change helped before it ships.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>💳 Payments &amp; wallets</b><br>
+      <sub>Transaction flows, balances and the boring-but-vital parts: idempotency, audit trails, reconciliation.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>🏢 Enterprise systems</b><br>
+      <sub>Java EE / JSF / PrimeFaces on Oracle: maintaining, modernizing and adding features to systems people rely on daily.</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><b>Have a project or a role in mind?</b> Message me on LinkedIn or by email, usually answered within a day.</p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
