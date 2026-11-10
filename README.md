@@ -49,6 +49,14 @@ to the agent is measured with evals before it ships.
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3>🛡️ <a href="https://github.com/Ayda8/headerguard">headerguard</a></h3>
+      <p>Grades any website's HTTP security (HSTS, CSP, cookies, TLS, certificate expiry, CORS) from A to F, with the exact fix for every finding. Its CORS probe catches the classic "any site can read your users' data" misconfiguration. Runs as a CLI, a non-root Docker image, or a GitHub Action that blocks insecure deploys. Zero runtime dependencies, 49 tests.</p>
+      <p><code>Java 21</code> <code>java.net.http</code> <code>TLS</code> <code>Docker</code> <code>GitHub Actions</code> <code>JUnit 5</code></p>
+      <a href="https://github.com/Ayda8/headerguard/actions/workflows/ci.yml"><img src="https://github.com/Ayda8/headerguard/actions/workflows/ci.yml/badge.svg" alt="headerguard CI status"></a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>💊 Caregiver Agent</h3>
       <p>An LLM agent that manages medication schedules and alerts caregivers. Runs fully local with Ollama and keeps working without internet. Safety rules in a deterministic rule engine, guarded by ArchUnit; evals before prompts.</p>
